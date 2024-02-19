@@ -4,3 +4,4 @@ PROJECT
 - team notes
 - meetings
 - team documentation
+- code rewievs
