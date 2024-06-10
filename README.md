@@ -9,3 +9,4 @@ Personal notes about team management.
 1. [TEAM MEMBERS](team-members/TEAM_MEMBERS.md)
 1. [COMPANY](company/COMPANY.md)
 1. [YOU](you/YOU.md)
+1. [TECHNICAL INTERVIEW](TECHNICAL_INTERVIEW.md)
