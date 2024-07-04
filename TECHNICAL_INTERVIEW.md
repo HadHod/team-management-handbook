@@ -51,14 +51,51 @@
 
 ## JavaScript
 
+* https://developer.mozilla.org/en-US/docs/Web/JavaScript/Closures
+* https://developer.mozilla.org/en-US/docs/Web/JavaScript/EventLoop
+* https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Strict_mode
+* https://bluepnume.medium.com/javascript-tree-shaking-like-a-pro-7bf96e139eb7
+* https://www.arbazsiddiqui.me/javascript-proxies-real-world-use-cases/
+* https://blog.sessionstack.com/how-javascript-works-the-rendering-engine-and-tips-to-optimize-its-performance-7b95553baeda
+* https://www.digitalocean.com/community/tutorials/an-introduction-to-closures-and-currying-in-javascript
+* https://indepth.dev/posts/1139/here-is-what-you-need-to-know-about-javascripts-number-type
+* https://github.com/trekhleb/javascript-algorithms
+* https://nolanlawson.com/2022/01/05/memory-leaks-the-forgotten-side-of-web-performance/
+* https://www.loginradius.com/blog/engineering/javascript-events-bubbling-capturing-and-propagation/
+* https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise
+* Map vs object vs…
+* proto vs prototype
+
 
 ## TypeScript
+
+* https://typescript-exercises.github.io
+* https://2ality.com/2020/02/typing-arrays-typescript.html
+* https://khalilstemmler.com/blogs/typescript/getters-and-setters/
+* https://github.com/type-challenges/type-challenges
+* https://refactoring.guru/design-patterns/typescript
+* https://www.totaltypescript.com/tips/typescript-5-0-beta-deep-dive
+* https://devblogs.microsoft.com/typescript/announcing-typescript-5-0/
+* https://www.totaltypescript.com/type-vs-interface-which-should-you-use
+* https://www.builder.io/blog/satisfies-operator
 
 
 ## Angular
 
+* https://blog.bitsrc.io/10-tricks-to-optimize-your-angular-app-44208f616bf0
+* https://github.com/sudheerj/angular-interview-questions
+* https://www.interviewbit.com/angular-interview-questions/
+* https://dev.to/mquanit/deep-dive-with-rxjs-in-angular-4e6o
+
 
 ### RxJS
+
+* https://ultimatecourses.com/blog/rxjs-observables-observers-operators
+* https://blog.bitsrc.io/rxjs-patterns-efficiency-and-performance-10bbf272c3fc
+* https://www.javatpoint.com/rxjs-interview-questions
+* https://gist.github.com/GeoffMahugu/bf4d16609b3a3eec02b9819f6ce92161
+* https://rxjs.dev/guide/operators
+* https://liveloveapp.com/courses/introduction-rxjs/observables/exercise-observables
 
 
 ## Bundlers
