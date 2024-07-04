@@ -100,56 +100,135 @@
 
 ## Bundlers
 
+* https://kinsta.com/blog/vite-vs-webpack/
+
 
 ## V8
+
+* https://www.digitalocean.com/community/tutorials/js-v8-engine
+* https://hacks.mozilla.org/2017/02/a-crash-course-in-just-in-time-jit-compilers/
+* https://javascript.plainenglish.io/these-5-bad-javascript-practices-will-lead-to-memory-leaks-and-break-your-program-9cf692303043
 
 
 ## React
 
+* https://dev.to/ezranbayantemur/react-project-architecture-25m
+* https://www.robinwieruch.de/react-component-types
+* https://reactresources.com/topics/advanced-concepts
+* https://medium.com/dailyjs/redux-core-concepts-you-need-to-know-dad16274c994
+* https://flaviocopes.com/react-server-side-rendering/
+* https://dmitripavlutin.com/react-state-management/
+* https://alexsidorenko.com/blog/react-render-cheat-sheet/
+* https://github.com/sudheerj/reactjs-interview-questions
+* https://medium.com/@theyograjthakur/simplifying-large-file-uploads-with-react-and-node-js-a-step-by-step-guide-bd72967f57fe
+
 
 ### Renderers
 
+* https://blog.isquaredsoftware.com/2020/05/blogged-answers-a-mostly-complete-guide-to-react-rendering-behavior/
+* https://www.joshwcomeau.com/react/why-react-re-renders/
+* https://www.zhenghao.io/posts/react-rerender
+* https://alexsidorenko.com/blog/react-render-cheat-sheet/
+* https://www.developerway.com/posts/react-re-renders-guide
 
 ## CSS
+
+* https://developer.mozilla.org/en-US/docs/Web/CSS/position
 
 
 ## Agile
 
+* https://www.lucidchart.com/blog/agile-vs-waterfall-vs-kanban-vs-scrum
+* https://agilemanifesto.org/iso/pl/manifesto.html
+* https://www.linkedin.com/pulse/definition-ready-dor-vs-done-dod-brian-will/
+* https://www.interviewbit.com/scrum-master-interview-questions/
+* https://blog.conlea.pl/10-kluczowych-zasad-safe
+* https://scaledagileframework.com/safe-lean-agile-principles/
+* https://scaledagileframework.com/lean-agile-mindset/
+* https://dandypeople.com/blog/poster-on-agile-in-a-nutshell-with-a-spice-of-lean/
+* https://www.objectstyle.com/blog/agile-scrum-kanban-lean-xp-comparison
+
 
 ## Documentation
+
+* https://www.youtube.com/watch?v=rwfXkSjFhzc
 
 
 ## Design System
 
+* https://maheshba.bitbucket.io/blog/2023/07/12/Design.html
+* https://www.youtube.com/watch?v=B9tjUCwY1uY
+
 
 ## Git
 
+* https://learngitbranching.js.org/
+* https://git-scm.com/docs/git-reflog
 
 ## Back-End
+
+* https://12factor.net/
 
 
 ## NodeJS
 
+* https://medium.com/the-node-js-collection/making-your-node-js-work-everywhere-with-environment-variables-2da8cdf6e786
+* https://www.arbazsiddiqui.me/a-practical-guide-to-memory-leaks-in-nodejs/
+* https://coderrocketfuel.com/article/node-js-interview-questions-and-answers
+
 
 ## Network
+
+* https://www.diffen.com/difference/TCP_vs_UDP
 
 
 ## Databases
 
+* https://www.bmc.com/blogs/acid-atomic-consistent-isolated-durable/
+
 
 ## Testing
+
+* https://yonigoldberg.medium.com/fighting-javascript-tests-complexity-with-the-basic-principles-87b7622eac9a
+* https://vwo.com/ab-testing/
 
 
 ## BlockChain
 
+* https://docs.google.com/document/d/1SWJw_NTyUvgdB_asRzsnVyKjciW8dZbeqQeUeWsEiQc/edit#
+* https://github.com/Developer-DAO/resources
+
 
 ## Algorithms & Data structures
+
+* https://visualgo.net/en
+* http://algorytmy.ency.pl/artykul/notacja_duzego_o
+* https://www.digitalocean.com/community/tutorials/js-big-o-notation
 
 
 ## Concurrent programming
 
+* https://slikts.github.io/concurrency-glossary/
+* https://www.cise.ufl.edu/research/ParallelPatterns/glossary.htm
+* https://medium.com/@itIsMadhavan/concurrency-vs-parallelism-a-brief-review-b337c8dac350
+
 
 ## Interview Algorithms
 
+* https://www.youtube.com/watch?v=5co5Gvp_-S0
+* Depth First Search
+* Breadth First Search
+* Matching Parenthesis
+* Hash Table
+* Longest Palindromic Substring in a String
+* Reversing a linked list
+* https://www.toptal.com/algorithms/interview-questions
+* https://www.geeksforgeeks.org/top-10-algorithms-in-interview-questions/
+* https://github.com/nenadjaja/frontend_interview
+
 
 ## Algorithms exercises
+
+* https://www.algoexpert.io/questions
+* https://www.codewars.com/
+* https://pl.spoj.com/
