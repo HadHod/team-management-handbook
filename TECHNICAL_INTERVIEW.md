@@ -18,14 +18,18 @@
 * https://afteracademy.com/blog/authentication-vs-authorization
 * https://sourcemaking.com/design_patterns
 * https://hackr.io/blog/programming-paradigms
-* https://hackernoon.com/solid-principles-made-easy-67b1246bcdf
-* https://wanago.io/2020/02/03/applying-solid-principles-to-your-typescript-code/
-* https://fsgeek.pl/post/zasady-solid-vs-zasady-stupid/
 * https://www.liquidplanner.com/blog/how-long-is-that-going-to-take-top-down-vs-bottom-up-strategies/
 * https://refactoring.guru/refactoring/smells
 * https://www.upcounsel.com/delegation-vs-assignment
 * https://www.patterns.dev/
 * https://developer.mozilla.org/en-US/docs/Web/HTTP/Basics_of_HTTP/Evolution_of_HTTP
+
+### SOLID
+
+* https://dev.to/kevin-uehara/solid-the-simple-way-to-understand-47im
+* https://hackernoon.com/solid-principles-made-easy-67b1246bcdf
+* https://fsgeek.pl/post/zasady-solid-vs-zasady-stupid/
+* https://wanago.io/2020/02/03/applying-solid-principles-to-your-typescript-code/
 
 
 ## Grouped
