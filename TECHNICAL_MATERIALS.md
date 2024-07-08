@@ -24,23 +24,25 @@
 * https://www.patterns.dev/
 * https://developer.mozilla.org/en-US/docs/Web/HTTP/Basics_of_HTTP/Evolution_of_HTTP
 
+
 ### SOLID
 
 * https://dev.to/kevin-uehara/solid-the-simple-way-to-understand-47im
 * https://hackernoon.com/solid-principles-made-easy-67b1246bcdf
 * https://fsgeek.pl/post/zasady-solid-vs-zasady-stupid/
 * https://wanago.io/2020/02/03/applying-solid-principles-to-your-typescript-code/
+* https://dev.to/drruvari/mastering-solid-principles-in-react-easy-examples-and-best-practices-142b
 
 
 ## Grouped
 
-* https://github.com/sadanandpai/frontend-learning-kit (wszystko Roadmap)
-* https://github.com/yangshun/tech-interview-handbook (cały framework)
-* https://github.com/h5bp/Front-end-Developer-Interview-Questions (przed rozmową)
-* https://github.com/lydiahallie/javascript-questions (q&a 155)
+* https://github.com/sadanandpai/frontend-learning-kit
+* https://github.com/yangshun/tech-interview-handbook
+* https://github.com/h5bp/Front-end-Developer-Interview-Questions
+* https://github.com/lydiahallie/javascript-questions
 * https://github.com/leonardomso/33-js-concepts
-* https://www.toptal.com/javascript/interview-questions (przed rozmową)
-* https://www.fullstack.cafe/blog/advanced-javascript-interview-questions (przed rozmową)
+* https://www.toptal.com/javascript/interview-questions
+* https://www.fullstack.cafe/blog/advanced-javascript-interview-questions
 * https://www.frontendinterviewhandbook.com/javascript-questions
 
 
@@ -48,9 +50,20 @@
 
 * https://jakearchibald.com/2024/attributes-vs-properties/
 * https://dev.to/iggredible/cookies-vs-local-storage-vs-session-storage-3gp3
-* https://sekurak.pl/czym-jest-cors-cross-origin-resource-sharing-i-jak-wplywa-na-bezpieczenstwo/
 * https://www.geeksforgeeks.org/what-is-progressive-rendering/
 * https://www.cloudflare.com/learning/performance/speed-up-a-website/
+
+
+### Security
+
+* https://dev.to/buildwebcrumbs/javascript-security-simple-practices-to-secure-your-frontend-18ii
+* https://sekurak.pl/czym-jest-cors-cross-origin-resource-sharing-i-jak-wplywa-na-bezpieczenstwo/
+
+
+### Debugging & Performance analysis
+
+* https://blog.jiayihu.net/comprenhensive-guide-chrome-performance/
+* https://developer.chrome.com/docs/devtools/console/understand-messages
 
 
 ## JavaScript
@@ -90,6 +103,7 @@
 * https://github.com/sudheerj/angular-interview-questions
 * https://www.interviewbit.com/angular-interview-questions/
 * https://dev.to/mquanit/deep-dive-with-rxjs-in-angular-4e6o
+* https://blog.angulartraining.com/how-to-organize-files-and-folders-in-angular-applications-21ab9bfb237b
 
 
 ### RxJS
@@ -125,6 +139,7 @@
 * https://alexsidorenko.com/blog/react-render-cheat-sheet/
 * https://github.com/sudheerj/reactjs-interview-questions
 * https://medium.com/@theyograjthakur/simplifying-large-file-uploads-with-react-and-node-js-a-step-by-step-guide-bd72967f57fe
+* https://blog.isquaredsoftware.com/2020/05/blogged-answers-a-mostly-complete-guide-to-react-rendering-behavior/
 
 
 ### Renderers
