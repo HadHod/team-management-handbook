@@ -6,6 +6,7 @@
 1. PLANNING
 1. ESTIMATIONS
 
+
 ## RETROSPECTIVE
 
 ### NOTES
@@ -15,9 +16,11 @@
 * use simple templates
 * team health check from time to time
 
+
 ### TOOLS
 
 * [teamretro](https://www.teamretro.com/)
+
 
 ### WARM-UP GAMES
 

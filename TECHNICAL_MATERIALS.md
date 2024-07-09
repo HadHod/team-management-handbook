@@ -66,6 +66,11 @@
 * https://developer.chrome.com/docs/devtools/console/understand-messages
 
 
+### Architecture
+
+* https://martinfowler.com/articles/data-fetch-spa.html
+
+
 ## JavaScript
 
 * https://developer.mozilla.org/en-US/docs/Web/JavaScript/Closures
