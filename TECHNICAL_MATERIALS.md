@@ -62,6 +62,7 @@
 
 ### Debugging & Performance analysis
 
+* https://sled.rs/perf.html
 * https://blog.jiayihu.net/comprenhensive-guide-chrome-performance/
 * https://developer.chrome.com/docs/devtools/console/understand-messages
 
