@@ -1,15 +1,3 @@
-## Interview materials (verify)
-
-1. https://github.com/sadanandpai/frontend-learning-kit
-1. https://github.com/yangshun/tech-interview-handbook
-1. https://github.com/h5bp/Front-end-Developer-Interview-Questions
-1. https://github.com/lydiahallie/javascript-questions
-1. https://github.com/leonardomso/33-js-concepts
-1. https://www.toptal.com/javascript/interview-questions
-1. https://www.fullstack.cafe/blog/advanced-javascript-interview-questions
-1. https://www.frontendinterviewhandbook.com/javascript-questions
-
-
 ## General
 
 * https://www.perforce.com/blog/sca/what-static-analysis
@@ -25,7 +13,7 @@
 * https://developer.mozilla.org/en-US/docs/Web/HTTP/Basics_of_HTTP/Evolution_of_HTTP
 
 
-### SOLID
+#### SOLID
 
 * https://dev.to/kevin-uehara/solid-the-simple-way-to-understand-47im
 * https://hackernoon.com/solid-principles-made-easy-67b1246bcdf
@@ -52,22 +40,23 @@
 * https://dev.to/iggredible/cookies-vs-local-storage-vs-session-storage-3gp3
 * https://www.geeksforgeeks.org/what-is-progressive-rendering/
 * https://www.cloudflare.com/learning/performance/speed-up-a-website/
+* https://github.com/sadanandpai/frontend-learning-kit
 
 
-### Security
+#### Security
 
 * https://dev.to/buildwebcrumbs/javascript-security-simple-practices-to-secure-your-frontend-18ii
 * https://sekurak.pl/czym-jest-cors-cross-origin-resource-sharing-i-jak-wplywa-na-bezpieczenstwo/
 
 
-### Debugging & Performance analysis
+#### Debugging & Performance analysis
 
 * https://sled.rs/perf.html
 * https://blog.jiayihu.net/comprenhensive-guide-chrome-performance/
 * https://developer.chrome.com/docs/devtools/console/understand-messages
 
 
-### Architecture
+#### Architecture
 
 * https://martinfowler.com/articles/data-fetch-spa.html
 
@@ -112,7 +101,7 @@
 * https://blog.angulartraining.com/how-to-organize-files-and-folders-in-angular-applications-21ab9bfb237b
 
 
-### RxJS
+#### RxJS
 
 * https://ultimatecourses.com/blog/rxjs-observables-observers-operators
 * https://blog.bitsrc.io/rxjs-patterns-efficiency-and-performance-10bbf272c3fc
@@ -148,13 +137,14 @@
 * https://blog.isquaredsoftware.com/2020/05/blogged-answers-a-mostly-complete-guide-to-react-rendering-behavior/
 
 
-### Renderers
+#### Renderers
 
 * https://blog.isquaredsoftware.com/2020/05/blogged-answers-a-mostly-complete-guide-to-react-rendering-behavior/
 * https://www.joshwcomeau.com/react/why-react-re-renders/
 * https://www.zhenghao.io/posts/react-rerender
 * https://alexsidorenko.com/blog/react-render-cheat-sheet/
 * https://www.developerway.com/posts/react-re-renders-guide
+
 
 ## CSS
 
@@ -189,6 +179,7 @@
 
 * https://learngitbranching.js.org/
 * https://git-scm.com/docs/git-reflog
+
 
 ## Back-End
 
