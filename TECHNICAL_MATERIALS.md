@@ -41,6 +41,7 @@
 * https://www.geeksforgeeks.org/what-is-progressive-rendering/
 * https://www.cloudflare.com/learning/performance/speed-up-a-website/
 * https://github.com/sadanandpai/frontend-learning-kit
+* https://medium.com/weekly-webtips/understand-dom-cssom-render-tree-layout-and-painting-9f002f43d1aa
 
 
 #### Security
@@ -127,6 +128,7 @@
 
 * https://dev.to/ezranbayantemur/react-project-architecture-25m
 * https://www.robinwieruch.de/react-component-types
+* https://legacy.reactjs.org/docs/higher-order-components.html
 * https://reactresources.com/topics/advanced-concepts
 * https://medium.com/dailyjs/redux-core-concepts-you-need-to-know-dad16274c994
 * https://flaviocopes.com/react-server-side-rendering/
@@ -139,6 +141,7 @@
 
 #### Renderers
 
+* https://web.dev/articles/rendering-performance
 * https://blog.isquaredsoftware.com/2020/05/blogged-answers-a-mostly-complete-guide-to-react-rendering-behavior/
 * https://www.joshwcomeau.com/react/why-react-re-renders/
 * https://www.zhenghao.io/posts/react-rerender
@@ -148,6 +151,7 @@
 
 ## CSS
 
+* https://developer.mozilla.org/en-US/docs/Web/API/CSS_Object_Model
 * https://developer.mozilla.org/en-US/docs/Web/CSS/position
 
 
