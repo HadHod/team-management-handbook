@@ -55,6 +55,7 @@
 * https://sled.rs/perf.html
 * https://blog.jiayihu.net/comprenhensive-guide-chrome-performance/
 * https://developer.chrome.com/docs/devtools/console/understand-messages
+* https://gist.github.com/paulirish/5d52fb081b3570c81e3a
 
 
 #### Architecture
